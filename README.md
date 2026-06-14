@@ -18,7 +18,7 @@
     <strong>Escuela Superior de Cómputo (ESCOM)</strong> | Instituto Politécnico Nacional (IPN)
   </p>
   <p>
-    © 2026 - Repositorio académico de prácticas. 
+    © 2024 - Repositorio académico de prácticas. 
     <br>
     Autor: <a href="https://github.com/[Tu_Usuario]">Areli Guevara</a>
   </p>
